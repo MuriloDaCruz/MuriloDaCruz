@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D959FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##13678A&height=120&section=header"/>
 <h2 align="center" style="color: #e83d84;">Welcome! Most languages used</h2>
 <div>
   
